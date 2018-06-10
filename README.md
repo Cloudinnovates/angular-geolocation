@@ -1,6 +1,8 @@
 # Angular-Location-Monitoring
 Realtime location monitoring using Pusher and Angular
 
+[View tutorial](https://pusher.com/tutorials/collaborative-painting-angular)
+
 ## Prerequisites
 - [Angular](https://angular.io)
 - [Express](https://expressjs.com/)
