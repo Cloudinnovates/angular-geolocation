@@ -1,6 +1,8 @@
 # Angular-Location-Monitoring
 Realtime location monitoring using Pusher and Angular
 
+[View tutorial](https://pusher.com/tutorials/geofencing-angular)
+
 ## Prerequisites
 - [Angular](https://angular.io)
 - [Express](https://expressjs.com/)
